@@ -1,16 +1,26 @@
-## Hi there 👋
+# Robert Streetman
 
-<!--
-**rstreet85/rstreet85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on scientific coomputing and AI/ML applications.
 
-Here are some ideas to get you started:
+12+ years of experience developing data-driven, service-oriented, and scientific applications using Java, Python, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- AI/ML applications
+- Scientific computing
+- Space and ground systems
+- Backend and API development
+
+## Certifications
+
+- AWS Certified AI Practitioner
+- AWS Certified Machine learning Engineer - Associate
+- PCAP Certified Associate Python Programmer
+
+## Education
+
+M.S. Computer Systems Technology
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/robertstreetman)
