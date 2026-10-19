@@ -13,11 +13,11 @@ Software Engineer focused on scientific computing and AI/ML applications.
 
 ## Projects
 
-### Pyle - Vehicle Maintenance Tracker
+### nasa-ntrs-rag
 
-A Python/Flask application for tracking vehicle maintenance, part life/performance monitoring, and upcoming required maintenance.
+Experimental RAG system for NASA technical documents hosted on the NASA Technical Reports Servers. 
 
-[Repository](https://github.com/rstreet85/Pyle)
+[Repository](https://github.com/rstreet85/nasa-ntrs-rag)
 
 ### bolton - Human Skin Segmentation
 
