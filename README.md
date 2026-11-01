@@ -1,15 +1,15 @@
 # Robert H. Streetman
 
-Software Engineer focused on scientific computing and AI/ML applications.
+Software Engineer focused on scientific computing, backend development, and systems integration.
 
-12+ years of experience developing data-driven, service-oriented, and scientific applications using Java, Python, and cloud technologies.
+12+ years of experience developing backend services, scientific applications, and data-driven systems using Java, Python, and cloud technologies.
 
 ## Current Focus
 
-- AI/ML applications
-- Scientific computing
+- Scientific computing and computational modeling
+- Backend development and systems integration
+- Applied AI/ML and information retrieval
 - Space and ground systems
-- Backend and API development
 
 ## Projects
 
@@ -18,6 +18,12 @@ Software Engineer focused on scientific computing and AI/ML applications.
 Experimental RAG system for NASA technical documents hosted on the NASA Technical Reports Servers. 
 
 [Repository](https://github.com/rstreet85/nasa-ntrs-rag)
+
+### JKmeans - Java k-means Clustering
+
+Java implementation of the k-means clustering algorithm, sum of squared errors (SSE) metric, and some data normalization methods.
+
+[Repository](https://github.com/rstreet85/JKmeans)
 
 ### bolton - Human Skin Segmentation
 
@@ -31,17 +37,17 @@ A Java application that implements the Canny edge detector, including Sobel grad
 
 [Repository](https://github.com/rstreet85/JCanny)
 
-### JKmeans - Java k-means Clustering
-
-Java implementation of the k-means clustering algorithm, sum of squared errors (SSE) metric, and some data normalization methods.
-
-[Repository](https://github.com/rstreet85/JKmeans)
-
 ### ELA - Error Level Analysis for Suspected Image Tampering
 
 Java application for image forensics, examines JPEG images for regions of re-compression that indicate possible tampering.
 
 [Repository](https://github.com/rstreet85/ELA)
+
+### Pyle - Vehicle Maintenance Tracker
+
+Python Flask-based application to track and schedule maintenance on a per-vehicle basis.
+
+[Repository](https://github.com/rstreet85/Pyle)
 
 ## Certifications
 
